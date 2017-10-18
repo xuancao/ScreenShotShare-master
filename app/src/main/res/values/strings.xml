@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenShotShare</string>
+
+    <string name="wechat_friend">微信</string>
+    <string name="wechat_pyq">朋友圈</string>
+    <string name="qq_friend">QQ好友</string>
+</resources>

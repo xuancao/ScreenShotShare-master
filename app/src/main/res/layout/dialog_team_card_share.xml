@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_share_weichatmoents"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_height="44dp"
+        android:text="朋友圈"
+        android:gravity="center"
+        android:textColor="#00a651"
+        android:background="#aaaaaa"
+        android:textSize="16sp" />
+
+
+    <TextView
+        android:id="@+id/tv_share_weichat"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="5dp"
+        android:layout_height="44dp"
+        android:text="微信好友"
+        android:gravity="center"
+        android:background="#aaaaaa"
+        android:textColor="#00a651"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_share_cancel"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="5dp"
+        android:layout_height="44dp"
+        android:text="取消"
+        android:gravity="center"
+        android:background="#aaaaaa"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+</LinearLayout>
